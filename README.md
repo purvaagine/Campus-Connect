@@ -26,4 +26,4 @@ Campus Connect is an innovative online platform designed for students to buy and
 - **Software**: Node.js, MongoDB, Visual Studio Code
 
 ## Deployment
-- **The application is deployed on Render, providing a reliable and scalable environment for hosting both frontend and backend.
+- The application is deployed on Render, providing a reliable and scalable environment for hosting both frontend and backend.
