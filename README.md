@@ -43,7 +43,7 @@ The project is built using the **MERN Stack**:
 - **Routes**: Maps URLs to specific functionalities.
 
 ## Deployment
-
+https://campus-connect-b7ga.onrender.com
 The project is deployed on **Render**, a fully-managed cloud platform offering:
 - Reliability and scalability for static sites, back-end APIs, and databases.
 - Streamlined hosting environment for easy application management.
